@@ -1,0 +1,18 @@
+.post-list-container .post h3,
+.post-list-container .post p {
+  color: black;
+}
+
+.post-item {
+  margin-bottom: 40px;
+}
+
+.post-title {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #00686c;
+  font-weight: bold;
+}
+
+
+
+

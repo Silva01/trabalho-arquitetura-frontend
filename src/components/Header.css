@@ -1,0 +1,30 @@
+.colorido {
+    background-color: #005bc5;
+    height: 40vh;
+}
+
+.cor-padrao {
+    background-color: #005bc5 !important;
+    color: aliceblue !important;
+    font-weight: bold;
+}
+
+.redondo {
+    width: 100%; /* ajuste a largura da imagem */
+    height: 130%; /* ajuste a altura da imagem */
+    border-radius: 50%; /* arredonda a imagem */
+    object-fit: cover; /* ajusta o tamanho da imagem para preencher o espaço disponível sem distorção */
+    max-width: 200px; /* limite máximo da largura da imagem */
+}
+
+.texto {
+    top: 30%;
+    position: relative;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    align-items: center; /* Centraliza os itens verticalmente */
+  }
